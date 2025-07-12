@@ -5,7 +5,6 @@ Ben **Muhsin DOLU**, bir yazılım mühendisiyim. Bu depo, **PHP programlama dil
 Her algoritma, dosyalar halinde düzenlenmiş olup, sade ve anlaşılır bir yapıda sunulmuştur.
 
 ## 🚀 Nasıl Kullanılır?
-
 Bu repodaki dosyaları indirerek kendi bilgisayarınızda çalıştırabilirsiniz.  
 Her algoritma örneği, kaynak kodları ile birlikte gelir ve doğrudan çalıştırılabilir.  
 Kodları inceleyerek algoritmaların mantığını ve çalışma prensibini kolayca anlayabilirsiniz.
