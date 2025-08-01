@@ -9,7 +9,7 @@ $dizi = array();
 
 for ($i = 0; $i < $eleman; $i++) {
     for ($j = 0; $j < $eleman; $j++) {
-        // Sol üst üçgene yıldız ataması yapılır
+        // Sol alt üçgene yıldız ataması yapılır
         if($i>=$j){
             $dizi[$i][$j] ="*";
         }else{
