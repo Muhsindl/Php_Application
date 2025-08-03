@@ -13,7 +13,7 @@ for ($i = 0; $i < $eleman; $i++) {
             // Köşegeni 1 yapıyoruz
             $dizi[$i][$j] =1;
         }else{
-            // Yedek köşegen dışı diğer elemanları kullanıcıdan alıyoruz
+            // Köşegen dışı diğer elemanları kullanıcıdan alıyoruz
             echo "Lütfen ${i},${j}'nci elemanı giriniz: "; 
             $dizi[$i][$j] = trim(fgets(STDIN));
         }
