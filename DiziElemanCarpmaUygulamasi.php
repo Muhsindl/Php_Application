@@ -25,7 +25,7 @@ for ($i = 0; $i <$elemanSayisi; $i++) {
      $arr2[$i]=trim(fgets(STDIN));
 }
 
-// Dizilerin toplamlarının atanması
+// Dizilerin çarpımlarının atanması
 for ($i = 0; $i <$elemanSayisi; $i++) {
      $carp[$i]=$arr1[$i]*$arr2[$i];
 }
